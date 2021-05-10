@@ -1,6 +1,8 @@
 # nurse-bot
 This a Line Following hardware project created for dispense the medicine to the residence patients in the hospital ward.
 
+![Alt Text](hw.gif)
+
 This Robot uses ATMEGA32 chip as micro controller unit.
 
 Robot contained 
